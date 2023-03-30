@@ -8,10 +8,10 @@ iacopo libero bernabei 30/03/23
 using namespace std;
 int main()
 {
-  int i=10 ,n;
+	int n=0;
   cout<<"Quante volte voi stampare la frase? ";
   cin>>n;
-  while (i<n)
+  for(int i=0;i<n;i++)
   {
    cout<<"Bada come la fuma"<<endl; 
   }
