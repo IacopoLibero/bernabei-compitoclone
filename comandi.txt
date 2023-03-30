@@ -1,0 +1,30 @@
+   53  git commit .
+   54  git merge newFeature-Navbar
+   55  git add .
+   56  git status
+   57  git commit .
+   58  git commit -m 
+   59  git commit -m "conflitto in corso"
+   60  git push origin master
+   61  git clone https://github.com/sena-meucci/progettoStampa.git
+   62  git config user.name "iacopo"
+   63  git config user.name "iacopo"
+   64  git config user.mail "bernabei.iacopo@itismucci.com" 
+   65  git status
+   66  git status
+   67  git add .
+   68  git commit .
+   69  git config user.name "iacopo"
+   70  git config user.mail "bernabei.iacopo@itismucci.com" 
+   71  git commit .
+   72  git config user.email "bernabei.iacopo@itismucci.com" 
+   73  git commit .
+   74  git branch BugFix
+   75  git switch BugFix
+   76  git add .
+   77  git commit .
+   78  git switch master
+   79  git merge BugFix
+   80  git branch -d BugFix
+   81  git branch
+   82  history 30 > comandi.txt
